@@ -1,0 +1,1 @@
+function goodbye(name) { return "Sampai jumpa, " + name + "!"; } module.exports = { goodbye };
